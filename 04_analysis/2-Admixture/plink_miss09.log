@@ -1,0 +1,35 @@
+PLINK v1.90b6.10 64-bit (17 Jun 2019)
+Options in effect:
+  --file plink_miss09
+  --geno 0.1
+  --maf 0.05
+  --make-bed
+  --noweb
+  --out plink_miss09
+
+Hostname: clip-login-0.cbe.vbc.ac.at
+Working directory: /scratch-cbe/users/shuangyang.wu/Backup-data-7/rudealis/All-data/new/gvcf-209/78-no-dup-fq/old-assembly-fullUV/2-Admixture
+Start time: Fri Nov 10 12:49:21 2023
+
+Note: --noweb has no effect since no web check is implemented yet.
+Random number seed: 1699616961
+173111 MB RAM detected; reserving 86555 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (3479055 variants, 78 people).
+--file: plink_miss09-temporary.bed + plink_miss09-temporary.bim +
+plink_miss09-temporary.fam written.
+3479055 variants loaded from .bim file.
+78 people (0 males, 0 females, 78 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink_miss09.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 78 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.988168.
+0 variants removed due to missing genotype data (--geno).
+1064604 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+2414451 variants and 78 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to plink_miss09.bed + plink_miss09.bim + plink_miss09.fam ... done.
+
+End time: Fri Nov 10 12:49:34 2023
