@@ -23,7 +23,6 @@ Workbook:[Treemix](03_code/MP.10_treemix.md)
 Workbook:[Admixtools](03_code/MP.11_admixtools.md)  
 Workbook:[Population history using SMC++](03_code/MP.12_smc++.md)  
 Workbook:[Genome-wide genetic variation](03_code/MP.13_genomewide_genetic_variation.md)  
-Workbook:[Beta-tubulin variation](03_code/MP.14_beta-tubulin.md)  
 
 
 Any reuse of data or code is encouraged with due acknowledgement, either via citation of the published manuscript (when available) and/or GitHub repository. Comments, suggestions, and discussion are welcome.
