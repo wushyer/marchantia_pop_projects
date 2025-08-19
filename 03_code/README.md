@@ -1,4 +1,4 @@
-# Population genomics of ancient and modern *Trichuris trichiura*
+# Population genomics of ancient and modern *Marchantia polymorpha*
 
 ## Overview of workflow and code used in the analysis
 The code used in this project has been divided into workbooks based on the analysis performed, which are listed below. Each workbook can be accessed using the hyperlinks.
